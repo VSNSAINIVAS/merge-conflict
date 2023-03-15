@@ -17,4 +17,7 @@ pseudo code
   Feature1()
   {
   }
+  Feature2()
+  {
+  }
 }
