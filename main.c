@@ -1,17 +1,20 @@
 pseudo code
 {
-Initial Function()
-{
-  //Sample Code
-}
+  Initial Function()
+  {
+    // Sample Code
+  }
 
-Initial Security()
-{
- //Sample Code
-}
+  Initial Security()
+  {
+    // Sample Code
+  }
 
-Final Security(){
+  Final Security()
+  {
+  }
 
-}
-
+  Feature1()
+  {
+  }
 }
